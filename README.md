@@ -1,6 +1,11 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on earning my EECS degree<br>👯 I’m looking to collaborate on financial engineering projects<br>🤝 I’m looking for help with hackathons<br>🌱 I’m currently learning cybersecurity<br>💬 Ask me about neural networks<br>⚡ Fun fact I did olympic recurve archery in the past!
+🔭 I’m currently working on earning my EECS degree<be>
+👯 I’m looking to collaborate on financial engineering projects<be>
+🤝 I’m looking for help with hackathons<be>
+🌱 I’m currently learning cybersecurity<be>
+💬 Ask me about neural networks<be>
+⚡ Fun fact I did olympic recurve archery in the past!
 
 
 ## 🌐 Socials:
