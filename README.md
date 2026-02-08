@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on earning my EECS degree<br>
+🔭 Earned my EECS degree<br>
 ⚡ Fun fact I did olympic recurve archery in the past
 
 
